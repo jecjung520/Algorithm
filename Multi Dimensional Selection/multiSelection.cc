@@ -1,4 +1,4 @@
-long long getMaxProduct(vector<vector<int>> arr) { // C++
+long long getMaxProduct(vector<vector<int>> arr) {
     int m = int(arr.size()), n = int(arr[0].size()), req = (n + 1) / 2;
     vector<int> A;
     unordered_map<int, vector<int>> mp;
