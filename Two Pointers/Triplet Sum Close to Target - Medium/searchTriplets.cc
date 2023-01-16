@@ -18,8 +18,8 @@ for (int i = 0; i < arr.size() - 2; i++) {
         }
 
         if (abs(targetDiff) < abs(smallestDifference) ||
-                (abs(targetDiff) == abs(smallestDifference) && 
-                                targetDiff > smallestDifference)) {
+            (abs(targetDiff) == abs(smallestDifference) && 
+            targetDiff > smallestDifference)) {
             smallestDifference = targetDiff;  // save the closest difference
         }
 
