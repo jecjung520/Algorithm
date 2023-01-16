@@ -1,3 +1,5 @@
 # Algorithm
 
-All essential algorithms for code tests
+All essential patterns for code tests
+
+**Reference**: Grokking the Coding Interview: Patterns for Coding Questions
