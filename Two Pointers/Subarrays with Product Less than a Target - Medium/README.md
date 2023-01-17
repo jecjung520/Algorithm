@@ -5,7 +5,7 @@ Given an array with positive numbers and positive target number, find all subarr
 
 ## Solution
 Sort array first. When we are at X find pair whose sum is smaller than target sum - X. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Subarrays with Product Less than a Target](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Subarrays%20with%20Product%20Less%20than%20a%20Target%20-%20Medium/findSubarrays.cc)
 
 **Time Complexity**: O(N^2) <br />
 **Space Complexity**: O(N)
