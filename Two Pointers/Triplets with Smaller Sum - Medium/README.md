@@ -5,7 +5,7 @@ Given an unsorted array and target sum, count all triplets smaller than target s
 
 ## Solution
 Sort array first. When we are at X find pair whose sum is smaller than target sum - X. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Triplets with Smaller Sum](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Triplets%20with%20Smaller%20Sum%20-%20Medium/tripletsWithSmallerSum.cc)
 
 **Time Complexity**: O(N^2) <br />
 **Space Complexity**: O(N)
