@@ -5,7 +5,7 @@ Given a sorted array, create new array with squares of all numbers of input arra
 
 ## Solution
 Find index of non-negative number. Then use Two Pointers to iterate them seperately. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Squaring Sorted Array](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Squaring%20Sorted%20Array%20-%20Easy/squaringArray.cc)
 
 **Time Complexity**: O(N) <br />
 **Space Complexity**: O(1)
