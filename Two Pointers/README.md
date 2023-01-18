@@ -10,9 +10,11 @@
 7. [Subarrays with Product Less than a Target - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/7.%20Subarrays%20with%20Product%20Less%20than%20a%20Target%20-%20Medium)
 8. [Dutch National Flag Problems - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/8.%20Dutch%20National%20Flag%20Problems%20-%20Medium)
 <br />
-Problem 1. [Quadruple Sum to Target - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/Problem%201.%20Quadruple%20Sum%20to%20Target%20-%20Medium) 
+
+
+&nbsp;&nbsp; Problem 1. [Quadruple Sum to Target - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/Problem%201.%20Quadruple%20Sum%20to%20Target%20-%20Medium) 
 <br />
-Problem 2. [Comparing Strings containing Backspaces - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/Problem%202.%20Comparing%20Strings%20containing%20Backspaces%20-%20Medium)
+&nbsp;&nbsp; Problem 2. [Comparing Strings containing Backspaces - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/Problem%202.%20Comparing%20Strings%20containing%20Backspaces%20-%20Medium)
 <br />
-Problem 3. [Minimum Window Sort - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/Problem%203.%20Minimum%20Window%20Sort%20-%20Medium)
+&nbsp;&nbsp; Problem 3. [Minimum Window Sort - Medium](https://github.com/jecjung520/Algorithm/tree/main/Two%20Pointers/Problem%203.%20Minimum%20Window%20Sort%20-%20Medium)
 <br />
