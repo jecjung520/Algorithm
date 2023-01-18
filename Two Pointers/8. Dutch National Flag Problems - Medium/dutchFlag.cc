@@ -11,7 +11,7 @@ static void Dswap(vector<int> &arr, int i, int j) {
 
 static void Dsort(vector<int> &arr) {
     // all elements < low are 0 and all elements > high are 2
-    // all elements from >= low < i are 1
+    // all elements low <= x < i are 1
     int low = 0, high = arr.size() - 1;
     for (int i = 0; i <= high;) {
         if (arr[i] == 0) {
@@ -29,7 +29,7 @@ static void Dsort(vector<int> &arr) {
     }
 }
 
-int main(int argc, char *argv[]) {
+int main() {
   vector<int> arr = {1, 0, 2, 1, 0};
   Dsort(arr);
   for (auto num : arr) {
