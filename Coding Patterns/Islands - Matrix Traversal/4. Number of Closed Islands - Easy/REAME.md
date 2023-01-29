@@ -5,7 +5,7 @@ Given a matrix of 0s and 1s, count the number of closed island. A closed island 
 
 ## Solution - Depth First Search (DFS)
 Similar to **Number of Islands** problem. Make sure island does not touch edges and outside boundaries are water cells. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[DFS](https://github.com/jecjung520/Algorithm/blob/main/Coding%20Patterns/Islands%20-%20Matrix%20Traversal/4.%20Number%20of%20Closed%20Islands%20-%20Easy/closedIslands.cc)
 
 **Time Complexity**: O(M*N) <br />
 **Space Complexity**: O(M*N)
