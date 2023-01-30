@@ -5,7 +5,7 @@ If sum of square of digits of a number leads to 1, it is a happy number. Find ou
 
 ## Solution - Fast and Slow Pointers
 If happy number, sum will be stuck on number 1. Use Fast and Slow Pointers approach to find cycle among the sums. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Fast and Slow Pointers](https://github.com/jecjung520/Algorithm/blob/main/Coding%20Patterns/Fast%20and%20Slow%20Pointers/2.%20Start%20of%20LinkedList%20Cycle%20-%20Medium/startOfCycle.cc)
 
 **Time Complexity**: O(logN) <br />
 **Space Complexity**: O(1)
