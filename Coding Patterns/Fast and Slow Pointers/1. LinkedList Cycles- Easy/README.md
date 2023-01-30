@@ -5,7 +5,7 @@ Given head of a Singly LinkedList, determine if the LinkedList has a cycle or no
 
 ## Solution - Fast and Slow Pointers
 Slow pointer moves one step and fast pointer moves two steps whilst traversing the LinkedList. If LinkedList has no cycle, fast pointer will reach end before slow pointer. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Fast and Slow Pointers](https://github.com/jecjung520/Algorithm/blob/main/Coding%20Patterns/Fast%20and%20Slow%20Pointers/1.%20LinkedList%20Cycles-%20Easy/cycleLinkedList.cc)
 
 **Time Complexity**: O(N) <br />
 **Space Complexity**: O(1)
@@ -15,7 +15,7 @@ Given head of a LinkedList with cycle, find the length of cycle.
 
 ## Solution - Fast and Slow Pointers
 Similar to previous solution. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Fast and Slow Pointers - Length](https://github.com/jecjung520/Algorithm/blob/main/Coding%20Patterns/Fast%20and%20Slow%20Pointers/1.%20LinkedList%20Cycles-%20Easy/cycleLength.cc)
 
 **Time Complexity**: O(N) <br />
 **Space Complexity**: O(1)

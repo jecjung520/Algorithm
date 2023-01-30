@@ -5,7 +5,7 @@ Given head of a Singly LinkedList, rearrange such that nodes from second half of
 
 ## Solution - Fast and Slow Pointers
 Similar to **Palindrome LinkedList**. Find middle node of the LinkedList. Reverse the second half and iterate first half and reversed second half to produce LinkedList. <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Fast and Slow Pointers](https://github.com/jecjung520/Algorithm/blob/main/Coding%20Patterns/Fast%20and%20Slow%20Pointers/Problem%202.%20Rearrange%20a%20LinkedList%20-%20Medium/rearrangeList.cc)
 
 **Time Complexity**: O(N) <br />
 **Space Complexity**: O(1)

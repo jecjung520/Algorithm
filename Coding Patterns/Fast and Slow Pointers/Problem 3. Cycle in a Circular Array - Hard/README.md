@@ -5,7 +5,7 @@ An array is given. Positive number indicates move forward by the number and nega
 
 ## Solution - Fast and Slow Pointers
 Use Fast and Slow Pointers approach.  <br />
-[Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
+[Fast and Slow Pointers](https://github.com/jecjung520/Algorithm/blob/main/Coding%20Patterns/Fast%20and%20Slow%20Pointers/Problem%203.%20Cycle%20in%20a%20Circular%20Array%20-%20Hard/circularArray.cc)
 
 **Time Complexity**: O(N^2) <br />
 **Space Complexity**: O(1)
