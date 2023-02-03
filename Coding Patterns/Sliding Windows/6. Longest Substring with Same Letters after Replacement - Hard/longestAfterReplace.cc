@@ -18,7 +18,7 @@ public:
 
             // the remaining letters are greater than K, replacement cannot occur
             // hence, window is shrinked
-            if (i - windowStart - maxWindow > K) {
+            if (i - windowStart - maxWindow > K) {  
                 window[str[windowStart++]]--;
             }
             maxLength = max(maxLength, i - windowStart);
