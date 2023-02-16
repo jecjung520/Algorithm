@@ -16,7 +16,7 @@ You may refer to the [intro.cc](https://github.com/jecjung520/Coding-Test-Algori
 
 &nbsp;&nbsp; Problem 1. [Permutation in a String - Hard](https://github.com/jecjung520/Coding-Test-Algorithms/tree/main/Coding%20Patterns/Sliding%20Windows/Problem%201.%20Permutation%20in%20a%20String%20-%20Hard)
 <br />
-&nbsp;&nbsp; Problem 2. [String Anagrams - Hard](https://github.com/jecjung520/Coding-TestAlgorithms/tree/main/Coding%20Patterns/Sliding%20Windows/Problem%202.%20String%20Anagrams%20-%20Hard)
+&nbsp;&nbsp; Problem 2. [String Anagrams - Hard](https://github.com/jecjung520/Coding-Test-Algorithms/tree/main/Coding%20Patterns/Sliding%20Windows/Problem%202.%20String%20Anagrams%20-%20Hard)
 <br />
 &nbsp;&nbsp; Problem 3. [Smallest Window containing Substring - Hard](https://github.com/jecjung520/Coding-Test-Algorithms/tree/main/Coding%20Patterns/Sliding%20Windows/Problem%203.%20Smallest%20Window%20containing%20Substring%20-%20Hard)
 <br />
