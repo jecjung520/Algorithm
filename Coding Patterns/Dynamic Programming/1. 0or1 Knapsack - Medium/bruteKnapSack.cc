@@ -13,6 +13,8 @@ private:
     int knapsackRecursive(vector<int>& profit, vector<int>& weight, int capacity, int currentIndex) {
         if (capacity <= 0 || currentIndex >= profit.size()) return 0;
 
+        // recursive call after choosing the element at the currentIndex
+        // if the weight of the element at currentIndex exceeds the capacity, we shouldn't process this
         int profit1 = 0;
         if (weight[currentIndex] <= capacity) {
             profit1 = profit[currentIndex] + knapsackRecursive(profit, weight, capacity - weight[currentIndex], currentIndex+1);

@@ -1,4 +1,4 @@
-# 0/1 Knapsack
+# 0or1 Knapsack - Medium
 
 ## Problem
 Given two integer arrays of weights and profits, find subset of maximum profit below the capacity weight.
