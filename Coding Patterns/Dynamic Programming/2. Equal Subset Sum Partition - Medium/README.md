@@ -21,12 +21,5 @@ Use 2d array to store solved sub-problems. <br />
 Populate dp bottom up (dp[i][c] is maximum knapsack sum). Take maximum of dp[i-1][c] and profit[i] + dp[i-1][c-weight[]]. <br />
 [Hash Table](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum2.cc)
 
-**Time Complexity**: O(N*C) - N: number of items, C: capacity <br />
-**Space Complexity**: O(N*C)
-
-## Solution 4 - Optimized Bottom Up DP
-Using i % 2 instead of i - 1. This decreases the time complexity of O(2*C) by using a single array.  <br />
-[Hash Table](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum2.cc)
-
-**Time Complexity**: O(N*C) - N: number of items, C: capacity <br />
-**Space Complexity**: O(C)
+**Time Complexity**: O(N*S) - N: number of items, S: total sum <br />
+**Space Complexity**: O(N*S)
