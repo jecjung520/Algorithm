@@ -1,10 +1,10 @@
-# Minimum Subset Sum Difference - Hard
+# Problem 1. Count of Subset Sum - Hard
 
 ## Problem
-Given a set of positive numbers, partition into two subsets with minimum sum difference.
+Given a set of positive numbers, find total number of subsets whose sum is equal to given number S.
 
 ## Solution 1 - Basic Solution
-Similar implementation to **Brute Knapsack**. Compute two subset sums with sum1 and sum2. Return the min of them. <br />
+Similar implementation to **Subset Sum**. Try all subsets of given numbers to count subsets with sum equal to S. <br />
 [Binary Search](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum1.cc)
 
 **Time Complexity**: O(2^n) <br />
@@ -18,7 +18,7 @@ Use 2d array to store overlapping sub-problems. <br />
 **Space Complexity**: O(N*S)
 
 ## Solution 3 - Bottom Up DP
-For every possible sum 'S', either exclude number or include number if the value is not more than 'S'. If either of the condition is true, the desired subset can be found. <br />
+First, exclude the number. Count all subsets without given number up to the given sum. Then, include the number if its value is not more than S. <br />
 [Hash Table](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum2.cc)
 
 **Time Complexity**: O(N*S) - N: number of items, S: desired sum <br />
