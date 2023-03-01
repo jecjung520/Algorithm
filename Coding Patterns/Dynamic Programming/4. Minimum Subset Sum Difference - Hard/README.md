@@ -18,7 +18,7 @@ Use 2d array to store overlapping sub-problems. <br />
 **Space Complexity**: O(N*S)
 
 ## Solution 3 - Bottom Up DP
-For every possible sum 'S', either exclude number or include number if the value is not more than 'S'. If either of the condition is true, the desired subset can be found. <br />
+Calculate all possible sums up to S/2 for all numbers. <br />
 [Hash Table](https://github.com/jecjung520/Algorithm/blob/main/Two%20Pointers/Pair%20with%20Target%20Sum%20-%20Easy/targetSum2.cc)
 
 **Time Complexity**: O(N*S) - N: number of items, S: desired sum <br />
